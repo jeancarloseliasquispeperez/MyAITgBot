@@ -90,7 +90,3 @@ The bot uses machine learning algorithms to:
 - Identify trend patterns
 - Calculate technical indicators
 - Generate market sentiment analysis
-
-## License
-
-MIT License - see LICENSE file for details

@@ -18,13 +18,13 @@ The bot will:
 - Support for multiple cryptocurrencies
 
 ## Project Structure
-├── bot.py                 # Main bot application
-├── config.py              # Configuration settings
-├── requirements.txt       # Python dependencies
-├── analysis_engine.py     # AI analysis components
-├── data_fetcher.py        # Crypto data collection
-├── alert_system.py        # User alert management
-└── README.md              # Setup instructions
+- bot.py                 # Main bot application
+- config.py              # Configuration settings
+- requirements.txt       # Python dependencies
+- analysis_engine.py     # AI analysis components
+- data_fetcher.py        # Crypto data collection
+- alert_system.py        # User alert management
+- README.md              # Setup instructions
 
 
 ## Setup Instructions
